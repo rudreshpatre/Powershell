@@ -1,0 +1,7 @@
+This WPFAutomationWithPowershell contains
+Two major files
+1) WPF Project - I used powershell script to open, add input data,hit button to process data added and close the application.
+2) Powershell script which automates as mentioned above.
+
+To automate using powershell script I have used UIAutomation library as mentioned in below link:
+https://www.softwaretestinghelp.com/desktop-application-ui-automation-with-powershell/
